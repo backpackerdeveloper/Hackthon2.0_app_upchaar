@@ -1,0 +1,81 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Upchar</string>
+
+    <string name="asthma"> 1 Help the person to sit up and remain calm.\n
+        2) Assist the person in using their prescribed inhaler, if they have one.\n
+        3) Encourage the person to take slow, deep breaths.\n
+        4) Loosen any tight clothing that may be restricting their breathing.\n
+        5) If the persons symptoms do not improve, call emergency services or take them to the nearest hospital for further treatment.</string>
+    <string name="burns">1) Remove the source of heat or flames and move the person away from danger.\n
+        2) Cool the burned area with cool water for at least 10–20 minutes to reduce pain and swelling.\n
+        3) Cover the burn with a clean, dry, non-adhesive dressing or cloth to protect it from infection.\n
+        4) If the burn is severe, seek medical attention immediately.\n
+        5) If the persons clothing is stuck to the burn, do not try to remove it. Cut around the burned area and remove any loose clothing.</string>
+    <string name="choking">1) Ask the person if they are choking and if they need help.\n
+2) perform the Heimlich maneuver by standing behind the person and place hand above persons navel than thrust both hands backwards into their stomach\n
+3) If the person is unable to perform the Heimlich maneuver, lean the person forward. Administer up to 5 forceful blows between the person’s shoulder blades with the heel of your hand\n
+4) If the person becomes unconscious, lower them to the ground and begin CPR.\n
+5)perform chest compressions by pushing hard and fast in the center of the chest. If you are trained and able, perform rescue breaths.</string>
+    <string name="diabetes">1) If the person is conscious and able to swallow, provide them with a sugary drink or candy to raise their blood sugar level.\n
+2) If the person is unconscious or unable to swallow, do not give them anything to eat or drink and seek medical attention immediately.\n
+3) Check the persons vital signs and monitor their breathing and level of responsiveness.\n
+4) If the person has a glucagon kit, administer it as directed.\n
+5) If the persons condition worsens or they become unresponsive, call emergency services or take them to the nearest hospital for further treatment.</string>
+    <string name="electrical_injury">1) Check for the source of the electrical shock. Look to see if the victim is still in contact with the source. Don’t touch them.\n
+2) turn off the electrical current. Separate the victim from the source with non-conducting material that you may use.\n
+3) if victim is not responding to questions or reacting to pain perform CPR.\n
+4)perform chest compressions by pushing hard and fast in the center of the chest. If you are trained and able, perform rescue breaths\n
+5) Identify burned areas. rinse the burns with cool water. Cover the burn.</string>
+    <string name="fever">1) Help the person to rest and stay hydrated by drinking plenty of fluids, such as water or herbal tea.\n
+2) Use a cool compress or sponge to lower the persons body temperature.\n
+3) If the person is uncomfortable, provide them with over-the-counter medication to reduce fever, such as acetaminophen or ibuprofen, if it is safe to do so.\n
+4) Encourage the person to wear lightweight clothing and to stay in a cool, well-ventilated room.\n
+5) If the persons fever persists or they have other symptoms, such as difficulty breathing or a rash, seek medical attention.</string>
+    <string name="fracture">1) Keep the injured area still and Do not try to realign the bone or push it back into place.\n
+2) Apply a cold compress or ice pack to the injured area to reduce swelling and pain.\n
+3) If the fracture is an open fracture cover the wound with a clean cloth or bandage to prevent infection.\n
+4) if victim is not responding to questions or reacting to pain perform CPR.\n
+5)perform chest compressions by pushing hard and fast in the center of the chest. If you are trained and able, perform rescue breaths.</string>
+    <string name="headache">1) Help the person to rest in a quiet, dark room.\n
+2) Offer the person a cool compress or ice pack to the affected area.\n
+3) If the person has medication for their headaches, help them to take it if they need it and if it is safe to do so.\n
+4) Encourage the person to take slow, deep breaths and to relax their muscles.\n
+5) If the persons headache does not improve or if they have other symptoms such as a fever or neck stiffness, seek medical attention.</string>
+    <string name="heart_attack">1) Have the person sit or lie down and loosen any tight clothing.\n
+2) Give the person a chewable aspirin.\n
+3) If the person becomes unresponsive, begin CPR.\n
+4) perform chest compressions by pushing hard and fast in the center of the chest.\n
+5)  If you are trained and able, perform rescue breaths</string>
+    <string name="near_drowning">1)If the person is breathing, place them on their side in the recovery position to prevent choking or vomiting.\n
+2) Monitor the persons breathing and level of responsiveness until medical help arrives.\n
+3) If the person is not breathing, begin CPR.\n
+4) perform chest compressions by pushing hard and fast in the center of the chest.</string>
+    <string name="nose_bleeding">1) Help the person to sit down and lean forward slightly to avoid swallowing blood.\n
+2) Pinch the soft part of the persons nose with a clean cloth or tissue and apply gentle pressure for at least 10-15 minutes.\n
+3)Apply a cold compress to the persons nose to constrict blood vessels and reduce bleeding.\n
+4) If bleeding persists or the person feels faint or dizzy, seek medical attention.\n
+5) Encourage the person to avoid blowing their nose or picking at any scabs for at least 24 hours.</string>
+    <string name="panic_attack">1) Stay calm and encourage the person to do the same.\n
+2) Help the person to sit down and take slow, deep breaths.\n
+3) Reassure the person that they are not in danger and that the panic attack will pass.\n
+4) Avoid making any sudden or loud noises that may startle the person.\n
+5) If the person has medication for their panic attacks, help them to take it if they need it and if it is safe to do so.</string>
+    <string name="poisioning">1) If the person has come into contact with poison on their skin. rinse the affected area with water for at least 15 minutes.\n
+2)If the person has ingested poison, do not induce vomiting or give them anything to eat or drink, including medication, unless instructed to do so by medical professionals.\n
+3) If the person is unconscious but breathing, place them in the recovery position on their side with their head supported.\n
+4) Provide as much information about the poison as possible to emergency responders, including the type of poison.</string>
+    <string name="snakebite">1) Keep the person calm and immobile to slow the spread of venom.\n
+2) Remove any jewelry or tight clothing that could restrict circulation in case of swelling.\n
+3) Keep the affected limb below heart level to reduce the flow of venom.\n
+4) Find a wrap thats clean and dry. Cover the snakebite. If possible, tightly wrap a pressure bandage around the wound.\n
+5) Do not attempt to suck out the venom, cut the bite area, or apply a tourniquet</string>
+    <string name="stomache">1) Help the person to rest in a comfortable position.\n
+2) Offer the person clear fluids, such as water or herbal tea, to keep them hydrated.\n
+3) Avoid giving the person solid foods until their stomachache subsides.\n
+4) Apply a warm compress to the persons stomach to provide relief.\n
+5) If the stomachache persists or the person has other symptoms, such as vomiting or fever, seek medical attention.</string>
+    <string name="stroke">1) Note the time when symptoms first appeared and share this with the emergency responders.\n
+2) Keep the person still and comfortable, with their head and shoulders slightly elevated.\n
+3) If the person is unconscious but breathing, place them in the recovery position on their side with their head supported.\n
+4) Do not give the person anything to eat or drink, including medication, unless instructed to do so by medical professionals.</string>
+</resources>
